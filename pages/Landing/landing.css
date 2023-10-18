@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-section{
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+}
+.heading{
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+.text{
+    margin-left: 50px;
+}
+.semi-section{
+    flex: 50%;
+}
+.image-cover{
+    background-image: url("C:\Users\REDTECH\Desktop\New folder\new react project\src\assets\Untitled design (1).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
